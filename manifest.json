@@ -1,7 +1,7 @@
 {
 "name": "Kingdom Embassy Church",
 "short_name": "Kingdom Embassy Church",
-"start_url": "https://kingdompillarsharvestersministry.com.ng/",
+"start_url": "./?v3&utm_source=web_app_manifest",
 "display": "standalone",
 "description": "Kingdom Embassy Church",
 "lang": "English",
@@ -474,14 +474,14 @@
 "related_applications": [
     {
         "platform":"windows",
-        "url": "https://kingdompillarsharvestersministry.com.ng/"
+        "url": "./?v3&utm_source=web_app_manifest"
     }
 ],
-"prefer_related_applications": "false",
+"prefer_related_applications": false,
 "shortcuts": [
     {
         "name":"Kingdom Embassy Church",
-        "url":"https://kingdompillarsharvestersministry.com.ng/",
+        "url":"./?v3&utm_source=web_app_manifest",
         "description":"Kingdom Embassy Church"
     }
 ]
