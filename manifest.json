@@ -4,7 +4,7 @@
 "start_url": "https://kingdompillarsharvestersministry.com.ng/",
 "display": "standalone",
 "description": "Kingdom Embassy Church",
-"lang": "en",
+"lang": "English",
 "dir": "auto",
 "theme_color": "#e84545",
 "background_color": "#fff",
@@ -459,14 +459,18 @@
       "sizes": "1024x1024"
     }
   ],
-"screenshots": [
+  "screenshots": [
     {
-        "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
-        "sizes": "2880x1800",
-        "type": "image/png",
-        "description": "A screenshot of the home page"
+      "src": "images/dowload.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "images/download 2.png",
+      "sizes": "750x1334",
+      "type": "image/png"
     }
-],
+  ],
 "related_applications": [
     {
         "platform":"windows",
