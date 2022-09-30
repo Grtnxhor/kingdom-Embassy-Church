@@ -11,9 +11,15 @@
 "orientation": "portrait",
 "icons": [
     {
+      "src": "images/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
       "src": "windows11/SmallTile.scale-100.png",
       "sizes": "71x71"
     },
+    
     {
       "src": "windows11/SmallTile.scale-125.png",
       "sizes": "89x89"
@@ -461,7 +467,7 @@
   ],
   "screenshots": [
     {
-      "src": "images/dowload.png",
+      "src": "images/download.png",
       "sizes": "1280x800",
       "type": "image/png"
     },
