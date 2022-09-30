@@ -1,6 +1,6 @@
 [{
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target" : { "namespace": "android_app", "package_name": "ng.com.kingdompillarsharvestersministry.twa",
-                     "sha256_cert_fingerprints": ["DC:D3:29:81:BC:7A:93:77:F0:49:5A:6B:02:40:B7:45:71:B2:D6:1F:ED:25:EA:0E:74:4A:F5:73:9F:46:CF:F9"] }
+                     "sha256_cert_fingerprints": ["96:01:D1:5F:9F:D2:B7:B6:4A:BF:AB:9B:B4:17:6D:09:16:A3:77:46:9A:51:66:E0:08:49:90:FF:92:07:56:96"] }
       }
 ]
