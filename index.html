@@ -419,6 +419,11 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.fancybox.min.js"></script>
     <script src="js/custom.js"></script>
+    <script type="module">
+      import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+      const el = document.createElement('pwa-update');
+      document.body.appendChild(el);
+   </script>
     <script type="module" src="pwabuilder-adv-sw.js">navigator.serviceWorker.register("pwabuilder-adv-sw.js")</script> 
   </body>
   </html>
