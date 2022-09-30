@@ -9,6 +9,8 @@
 "theme_color": "#e84545",
 "background_color": "#fff",
 "orientation": "portrait",
+"scope": "./?v3&utm_source=web_app_manifest",
+"category": "web",
 "icons": [
     {
       "src": "images/96.png",
